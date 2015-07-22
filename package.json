@@ -1,6 +1,6 @@
 {
   "name": "koa-mvc-gowhich",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Koa MVC 生成器",
   "main": "bin/koa-mvc",
   "bin": {
