@@ -22,7 +22,7 @@
  Rock and Roll
 
 ```sh
-    node --harmony app
+    node --harmony --harmony_proxies app
 ```
 
 ## Options
@@ -43,7 +43,7 @@
     koa-mvc ~/www/test-koa-mvc -t green --db mysql -a local:facebook:google
     cd ~/www/test-koa-mvc
     npm install
-    node --harmony app
+    node --harmony --harmony_proxies app
 ```
 
 Go to [http://localhost:3000](http://localhost:3000) and have fun hacking
