@@ -9,7 +9,7 @@
  Create the app:
 
 ```sh
-    npm install -g koa-mvc
+    npm install -g koa-mvc-gowhich
     koa-mvc /projects/foo && cd /projects/foo
 ```
 
